@@ -1,7 +1,6 @@
-# fluid_turb
-==
-Simulating Kelvin-Helmholtz Instabilities in a Stratified Shear Layer Project
-==
+# fluid_turb 2026 grad course
+## Simulating Kelvin-Helmholtz Instabilities in a Stratified Shear Layer Project ##
+
 
 Code is a 2D incompressible Boussinesq pseudo-spectral solver that uses the 2D incompressible Boussinesq equations in spectral
 form with Runge Kutta (RK4) time stepping, varying Ri and Re
