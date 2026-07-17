@@ -15,9 +15,7 @@ Features:
    - diagnostics: TKE, enstrophy, mixing thickness, growth
    - snapshot, figure and file saving to folder
 #
-Dependencies:
-   numpy
-   matplotlib
+Dependencies: numpy, matplotlib, quiver, 
 #
 Notes:
    - 2D model
